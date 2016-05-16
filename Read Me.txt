@@ -1,0 +1,16 @@
+* how to make easily run the program?
+[*] Now, set the execute bit with a ‘chmod’ command, such as this:
+[*] $ chmod +x PHU_PortScanner_v1.0.py
+[*] Now you’re able to run your program as ./PHU_PortScanner_v1.0.py in terminal.
+
+
+
+++++++++++++++++
+USER AGREEMENT:
+++++++++++++++
+
+we are not reponsibility on what you doing or you add codes to the program to 
+break cyber crime law. Don't across the line.
+
+if you Modify me Please Don't Forget to add me on credit
+~Ph03N1X
